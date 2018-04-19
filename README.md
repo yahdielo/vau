@@ -1,1 +1,2 @@
 # vau
+{{ shop.name }}
